@@ -37,3 +37,42 @@ C:\Users\GT Bannon\C-Sharp Stack\Project\G_C_Sharp\bin\Debug\net7.0\Microsoft.En
 C:\Users\GT Bannon\C-Sharp Stack\Project\G_C_Sharp\bin\Debug\net7.0\MySqlConnector.dll
 C:\Users\GT Bannon\C-Sharp Stack\Project\G_C_Sharp\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\GT Bannon\C-Sharp Stack\Project\G_C_Sharp\obj\Debug\net7.0\G_C_Sharp.csproj.CopyComplete
+C:\GBAnnVann\C-SharpProject\G_C_Sharp\bin\Debug\net7.0\appsettings.Development.json
+C:\GBAnnVann\C-SharpProject\G_C_Sharp\bin\Debug\net7.0\appsettings.json
+C:\GBAnnVann\C-SharpProject\G_C_Sharp\bin\Debug\net7.0\G_C_Sharp.staticwebassets.runtime.json
+C:\GBAnnVann\C-SharpProject\G_C_Sharp\bin\Debug\net7.0\G_C_Sharp.exe
+C:\GBAnnVann\C-SharpProject\G_C_Sharp\bin\Debug\net7.0\G_C_Sharp.deps.json
+C:\GBAnnVann\C-SharpProject\G_C_Sharp\bin\Debug\net7.0\G_C_Sharp.runtimeconfig.json
+C:\GBAnnVann\C-SharpProject\G_C_Sharp\bin\Debug\net7.0\G_C_Sharp.dll
+C:\GBAnnVann\C-SharpProject\G_C_Sharp\bin\Debug\net7.0\G_C_Sharp.pdb
+C:\GBAnnVann\C-SharpProject\G_C_Sharp\bin\Debug\net7.0\Humanizer.dll
+C:\GBAnnVann\C-SharpProject\G_C_Sharp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\GBAnnVann\C-SharpProject\G_C_Sharp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\GBAnnVann\C-SharpProject\G_C_Sharp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\GBAnnVann\C-SharpProject\G_C_Sharp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\GBAnnVann\C-SharpProject\G_C_Sharp\bin\Debug\net7.0\MySqlConnector.dll
+C:\GBAnnVann\C-SharpProject\G_C_Sharp\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\GBAnnVann\C-SharpProject\G_C_Sharp\obj\Debug\net7.0\G_C_Sharp.csproj.AssemblyReference.cache
+C:\GBAnnVann\C-SharpProject\G_C_Sharp\obj\Debug\net7.0\G_C_Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\GBAnnVann\C-SharpProject\G_C_Sharp\obj\Debug\net7.0\G_C_Sharp.AssemblyInfoInputs.cache
+C:\GBAnnVann\C-SharpProject\G_C_Sharp\obj\Debug\net7.0\G_C_Sharp.AssemblyInfo.cs
+C:\GBAnnVann\C-SharpProject\G_C_Sharp\obj\Debug\net7.0\G_C_Sharp.csproj.CoreCompileInputs.cache
+C:\GBAnnVann\C-SharpProject\G_C_Sharp\obj\Debug\net7.0\G_C_Sharp.MvcApplicationPartsAssemblyInfo.cache
+C:\GBAnnVann\C-SharpProject\G_C_Sharp\obj\Debug\net7.0\G_C_Sharp.RazorAssemblyInfo.cache
+C:\GBAnnVann\C-SharpProject\G_C_Sharp\obj\Debug\net7.0\G_C_Sharp.RazorAssemblyInfo.cs
+C:\GBAnnVann\C-SharpProject\G_C_Sharp\obj\Debug\net7.0\staticwebassets\msbuild.G_C_Sharp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\GBAnnVann\C-SharpProject\G_C_Sharp\obj\Debug\net7.0\staticwebassets\msbuild.build.G_C_Sharp.props
+C:\GBAnnVann\C-SharpProject\G_C_Sharp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.G_C_Sharp.props
+C:\GBAnnVann\C-SharpProject\G_C_Sharp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.G_C_Sharp.props
+C:\GBAnnVann\C-SharpProject\G_C_Sharp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\GBAnnVann\C-SharpProject\G_C_Sharp\obj\Debug\net7.0\staticwebassets.build.json
+C:\GBAnnVann\C-SharpProject\G_C_Sharp\obj\Debug\net7.0\staticwebassets.development.json
+C:\GBAnnVann\C-SharpProject\G_C_Sharp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\GBAnnVann\C-SharpProject\G_C_Sharp\obj\Debug\net7.0\scopedcss\bundle\G_C_Sharp.styles.css
+C:\GBAnnVann\C-SharpProject\G_C_Sharp\obj\Debug\net7.0\scopedcss\projectbundle\G_C_Sharp.bundle.scp.css
+C:\GBAnnVann\C-SharpProject\G_C_Sharp\obj\Debug\net7.0\G_C_Sharp.csproj.CopyComplete
+C:\GBAnnVann\C-SharpProject\G_C_Sharp\obj\Debug\net7.0\G_C_Sharp.dll
+C:\GBAnnVann\C-SharpProject\G_C_Sharp\obj\Debug\net7.0\refint\G_C_Sharp.dll
+C:\GBAnnVann\C-SharpProject\G_C_Sharp\obj\Debug\net7.0\G_C_Sharp.pdb
+C:\GBAnnVann\C-SharpProject\G_C_Sharp\obj\Debug\net7.0\G_C_Sharp.genruntimeconfig.cache
+C:\GBAnnVann\C-SharpProject\G_C_Sharp\obj\Debug\net7.0\ref\G_C_Sharp.dll
