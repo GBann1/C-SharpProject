@@ -5,7 +5,6 @@ namespace G_C_Sharp.Models;
 public class Login
 {
     [Required]
-    [EmailAddress]
     public string LogUsername { get; set; }
     
     [Required]
