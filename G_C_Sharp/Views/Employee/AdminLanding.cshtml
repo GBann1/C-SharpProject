@@ -1,0 +1,25 @@
+﻿@model Employee
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <div class="d-flex text-center">
+        <div>
+            <h3>Login</h3>
+            <div>
+                <form asp-action="Login" asp-controller="User" method="post">
+                    <div>
+                        <label for="IdentNum">Employee ID:</label>
+                        <input asp-for="IdentNum" />
+                        <span asp-validation-for="IdentNum"></span>
+                    </div>
+                    <div>
+                        <label for="Password">Password:</label>
+                        <input asp-for="Password" />
+                        <span asp-validation-for="Password"></span>
+                    </div>
+                    <input type="submit" value="Login" />
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
